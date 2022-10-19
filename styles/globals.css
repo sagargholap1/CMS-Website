@@ -65,9 +65,12 @@ width: 100%;
     margin-left: 6px;
 }
 .logo{
-  color: gray;
+  color: rgb(204, 50, 50);
   font-size: 22px;
   font-weight: bold;
+  letter-spacing: 1px;
+  text-shadow:  1px 3px rgba(182, 115, 117, 0.5);
+  text-transform: uppercase;
 
 }
 .cart-icon{
